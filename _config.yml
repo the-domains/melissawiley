@@ -1,0 +1,28 @@
+name: MelissaWiley
+favicon: null
+layout_spectrum: 0.3241993363481015
+typography_spectrum: 0.9949644899461418
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7996935786213726
+  lightness: 0.8778827856294811
+  saturation: 0.5168538715224713
+  rhythmicContrast: 0.5663134616333991
+purpose: []
